@@ -6,13 +6,13 @@ Before(() => {
 
 Given("I am on the sandbox page", async () => {
   cy.title((title) => {
-    assert.strictEqual(title, "Sandboxx");
+    expect(title).to.eq("Sandbox");
   });
 });
 
 Then("The page header should be {string}", async (expected) => {
   cy.get("h1").then(($header) => {
     const text = $header.text();
-    assert.strictEqual(text, expected);
+    expect(text).to.eq("Sandbox");
   });
 });
