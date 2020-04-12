@@ -1,7 +1,7 @@
 | referrer                                                                       | count | uniques |
 | :----------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/cypress-es-modules-cucumber-chai-expect/actions               | 11    | 1       |
-| /e2e-boilerplate/cypress-es-modules-cucumber-chai-expect                       | 9     | 2       |
+| /e2e-boilerplate/cypress-es-modules-cucumber-chai-expect/actions               | 15    | 1       |
+| /e2e-boilerplate/cypress-es-modules-cucumber-chai-expect                       | 11    | 2       |
 | /e2e-boilerplate/cypress-es-modules-cucumber-chai-expect/runs/556899352        | 3     | 1       |
 | /e2e-boilerplate/cypress-es-modules-cucumber-chai-expect/actions/runs/69557131 | 2     | 1       |
 | /e2e-boilerplate/cypress-es-modules-cucumber-chai-expect/actions/runs/74816966 | 2     | 1       |
